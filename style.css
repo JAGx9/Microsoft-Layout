@@ -1,0 +1,22 @@
+span {
+    display: inline-block;
+  }
+
+#white-cat {
+    width: 2000px;
+    height: 300px;
+    object-fit: fill;
+}
+
+body {
+    text-align: center;
+  }
+  
+  span {
+    display: inline-block;
+  }
+
+#blockimg {
+    width: 300px;
+    height: 300px;
+}
